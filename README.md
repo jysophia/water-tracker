@@ -1,4 +1,4 @@
-# My Personal Project
+# The Water Tracker
 
 ## Quick Overview
 
