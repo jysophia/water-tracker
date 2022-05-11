@@ -28,6 +28,10 @@ The water tracker will have the following **features**:
 
 <img width="800" alt="watertracker6" src="https://user-images.githubusercontent.com/92128121/167760272-168d45ff-4d83-42b8-a1f5-808362a48ca1.png">
 
+- Provide direct comparison with different dates so you can see your progress
+
+<img width="801" alt="watertracker13" src="https://user-images.githubusercontent.com/92128121/167761295-12817961-19b3-46e3-b9eb-24980ef9c7d0.png">
+
 - Reminds you to drink more water if you input 0 amount
 
 <img width="800" alt="watertracker9" src="https://user-images.githubusercontent.com/92128121/167760310-fbb90c05-9293-446a-93f5-fee83f41f6e9.png">
@@ -48,5 +52,6 @@ The water tracker will have the following **features**:
 
 - Logs all activities while the tracker is in use
 
-<img width="754" alt="watertracker12" src="https://user-images.githubusercontent.com/92128121/167760832-703ec173-1642-47e4-96f4-a2ebebdc7bd9.png">
+<img width="754" alt="watertracker12" src="https://user-images.githubusercontent.com/92128121/167761262-c930d6cf-018c-44e8-9793-a0c5c8dbec8a.png">
+
 
